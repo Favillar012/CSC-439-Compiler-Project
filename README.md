@@ -1,7 +1,9 @@
 University of North Carolina at Greensboro
+
 Fernando Villarreal
 
 CSC 439: Introduction to Compiler Design
+
 Fall 2020
 
 The "src" folder in this directory contains the Java source code for the Compiler Project. This project was divided into four main phases: lexical analysis, parsing, intermediate code generation, and machine/assembly code generation.
